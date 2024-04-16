@@ -1,0 +1,9 @@
+VARX1 -> GDP ARG
+
+VARX2 -> GDP ARG TT
+
+VARX3 -> GDP ARG TE
+
+VARX4 -> GDP ARG NT
+
+enfermedad holandesa> GDP ARG TE Aumenta, GDP ARG NT aumenta, GDP ARG TT decrece
